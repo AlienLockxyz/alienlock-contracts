@@ -25,7 +25,7 @@ ERC20/BEP20 token template with optional burn, tax, anti-bot rules (depending on
 ### `TokenFactory.sol`
 Factory contract to deploy tokens via UI (no-code). Supports initial supply, ownership, and optional locking.
 
-### `LiquidityLocker.sol`
+### `TokenLocker.sol`
 Locks LP tokens from PancakeSwap/Uniswap for transparency and investor trust.
 
 ---
